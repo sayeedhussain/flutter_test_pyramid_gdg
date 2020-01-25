@@ -53,23 +53,6 @@ void main() {
       //switch to productList tab by tapping on tabbar icon
       final productListTab = finder.find.byValueKey('ProductListTab');
       await driver.tap(productListTab);
-
-      //get remove button
-      final removeButton = finder.find.byValueKey('Remove');
-
-      //tap remove button twice
-      await driver.tap(removeButton);
-      await driver.tap(removeButton);
-
-      //switch to cart tab by tapping on tabbar icon
-      await driver.tap(cartTab);
-
-      //verify that no items in cart message is displayed
-      final errorText = find.byValueKey('Message');
-      expect(await driver.getText(errorText), 'No Items In Cart');
-
-      //switch to productList tab by tapping on tabbar icon
-      await driver.tap(productListTab);
     });
   });
 }
