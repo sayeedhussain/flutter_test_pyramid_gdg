@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sayeed/apps/flutter_test_pyramid_spike/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
+            "outputFile": "/Users/Chandru/Desktop/Flutter/flutter_test_pyramid_gdg/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "/Users/sayeed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f0d03213fc20e237d0a50b826f244681/res/values-ru/values-ru.xml",
+                    "source": "/Users/Chandru/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/06caf226c9f75653c50c497685de3808/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sayeed/apps/flutter_test_pyramid_spike/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/Chandru/Desktop/Flutter/flutter_test_pyramid_gdg/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/sayeed/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/10a04516c6513ae954d25a2666c87404/res/values/values.xml",
+                    "source": "/Users/Chandru/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/74687427e73bfe329a0545620e9524f6/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,13,102",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sayeed/apps/flutter_test_pyramid_spike/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/Chandru/Desktop/Flutter/flutter_test_pyramid_gdg/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sayeed/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f0d03213fc20e237d0a50b826f244681/res/values/values.xml",
+                    "source": "/Users/Chandru/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/06caf226c9f75653c50c497685de3808/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
